@@ -49,11 +49,11 @@ ul {
 }
 
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 
 input,button{
-  outline:none;
+  outline: none;
 }
 
 .button {
@@ -154,14 +154,14 @@ input,button{
 
 /* Edit Task */
 .list-item__text {
-  display:none
+  display: none
 }
 
 .edit-mode .list-item__text {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .list-item__label {
-  display:none;
+  display: none;
 }

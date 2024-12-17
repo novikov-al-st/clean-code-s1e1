@@ -74,7 +74,7 @@ button{
 }
 
 /* Heading */
-.tasks__block-header {
+.section__block-header {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -104,7 +104,7 @@ button{
 }
 
 /* New Task */
-.tasks__block-header_create {
+.section__block-header_create {
   display: block;
   margin: 0 0 20px;
 }
